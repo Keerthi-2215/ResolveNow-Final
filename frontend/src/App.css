@@ -1,0 +1,77 @@
+.home-container {
+  height: 100vh;
+  background-image: url('https://images.unsplash.com/photo-1605902711622-cfb43c44367f');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  height: 100%;
+  padding: 20px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  margin-bottom: 40px;
+}
+
+.nav-button {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.nav-button:hover {
+  text-decoration: underline;
+  color: #ffd700;
+}
+
+.main-content {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.main-content h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.main-content p {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.footer {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+.team {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.member img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.member p {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #ddd;
+}
