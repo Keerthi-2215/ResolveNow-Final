@@ -66,8 +66,7 @@ ResolveNow/
 
 📽 Demo Video
 
-🎥 [ Click here to watch the demo video ] (https://drive.google.com/drive/folders/1qaclaJdMOfE13lpyM0huzZPSAS0ajoun?usp=drive_link)
-
+[🎥 Click here to watch the demo video](https://drive.google.com/file/d/your-video-id/view?usp=sharing)
 ---
 
 🙌 Author
