@@ -66,11 +66,11 @@ ResolveNow/
 
 📽 Demo Video
 
-[🎥Click here to watch the demo video](https://drive.google.com/file/d/1G4sTfYuV8yHbhwYPK7kDMB94xj_KmG0H/view?usp=drive_link)
+🎥 [Click here to watch the demo video](https://drive.google.com/file/d/1G4sTfYuV8yHbhwYPK7kDMB94xj_KmG0H/view?usp=drive_link)
 ---
 
 🙌 Author
 
 Keerthi Bonthu  
-GitHub: [Keerthi-2215] (https://github.com/Keerthi-2215)
+GitHub: [Keerthi-2215](https://github.com/Keerthi-2215)
 
