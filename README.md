@@ -66,8 +66,9 @@ ResolveNow/
 
 📽 Demo Video
 
-🎥 [Click here to watch the demo video](https://drive.google.com/file/d/1G4sTfYuV8yHbhwYPK7kDMB94xj_KmG0H/view?usp=drive_link)---
+## 📽 Demo Video
 
+🎥 [Click here to watch the demo video](https://github.com/Keerthi-2215/ResolveNow-Final/raw/main/Video/demo.mp4)
 🙌 Author
 
 Keerthi Bonthu  
